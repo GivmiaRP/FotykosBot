@@ -1,5 +1,6 @@
 discord
 asyncio
-Pymoe
-youtube_dl
-pip
+random
+commands
+Bot
+Game
