@@ -1,6 +1,7 @@
 discord
 asyncio
-random
+pip
 commands
 Bot
 Game
+pip3
