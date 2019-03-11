@@ -143,4 +143,4 @@ async def on_message(message):
         em.set_image(url='https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif')
         await client.send_message(message.channel, embed=em)
 
-bot token:client.run(str(os.environ.get('BOT_TOKEN')))
+client.run('NEMTOMMIT')
