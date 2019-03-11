@@ -1,6 +1,4 @@
 discord
 asyncio
 pip
-Bot
-Game
 pip3
